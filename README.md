@@ -3,7 +3,7 @@
 ##### Juanchi,
 ###### Ésta es mi cartita para vos. Un lindo problemita, que vas a tener que resolver para encontrar la siguiente pista.  :shipit:
 
-######Espero esto te suene de algo, sino, buena suerte y hasta luego.
+###### Espero esto te suene de algo, sino, buena suerte y hasta luego.
 
 ```java
 import javax.crypto.spec.SecretKeySpec;
@@ -39,11 +39,11 @@ private String createJWT(String id, String issuer, String subject, long ttlMilli
 ```
 
 
-######Esa fue la pista, lo que vas a tener que ver, es que hacer con esto:
+###### Esa fue la pista, lo que vas a tener que ver, es que hacer con esto:
 
 ```
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaXN0YSI6IkxhIHBpc3RhIGVzICdlc3TDoSBtb2phZGEnIn0.IXbLz6xDeYGJHYfCVxUIVQB5fcAvrGg20BUNfvGZaBU
 ```
 
 
-####Éxitos!  🚀
+#### Éxitos!  🚀
