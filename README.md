@@ -1,8 +1,8 @@
 # Despedi3
 
 
-## Juanchi, 
 
+##### Juanchi,
 ###### Ésta es mi cartita para vos. Un lindo problemita, que vas a tener que resolver para encontrar la siguiente pista.  :shipit:
 
 Espero esto te suene de algo, sino, buena suerte y hasta luego.
