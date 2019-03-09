@@ -47,3 +47,6 @@ eyJhbGciOiJQUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaXN0YSI6IkxhIHBpc3RhIGVzICdlc3TDoSBtb2p
 
 
 #### Éxitos!  🚀
+
+
+Si sos paja, podes ir directo a [respuesta.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
