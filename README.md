@@ -14,7 +14,7 @@ import java.util.Date;
  
 private String createJWT(String id, String issuer, String subject, long ttlMillis) {
  
-    SignatureAlgorithm signatureAlgorithm = SignatureAlgorithm.HS256;
+    SignatureAlgorithm signatureAlgorithm = SignatureAlgorithm.PS256;
  
     long nowMillis = System.currentTimeMillis();
     Date now = new Date(nowMillis);
@@ -42,7 +42,7 @@ private String createJWT(String id, String issuer, String subject, long ttlMilli
 ###### Esa fue la pista, lo que vas a tener que ver, es que hacer con esto:
 
 ```
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaXN0YSI6IkxhIHBpc3RhIGVzICdlc3TDoSBtb2phZGEnIn0.IXbLz6xDeYGJHYfCVxUIVQB5fcAvrGg20BUNfvGZaBU
+eyJhbGciOiJQUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaXN0YSI6IkxhIHBpc3RhIGVzICdlc3TDoSBtb2phZGEnIn0.SyTbKht-GCNcrdFdoM_IdLwMX8_Ultn-4SJk1JIyBlNJTSbc2B29EV5Fqjjok6wpIfaQEOmZRgruJYl4894qALi1K1NNxQ4L1_tARSMgqatWgM-_FKHolGLLF__6Aopb7hJAGaXBAzXUOWogbRzoRqZzYT-x7GMiEW40iVR0v2o
 ```
 
 
