@@ -39,7 +39,7 @@ private String createJWT(String id, String issuer, String subject, long ttlMilli
 ```
 
 
-###### Esa fue la pista, lo que vas a tener que ver, es que hacer con esto:
+###### Esa fue la pista, lo que vas a tener que ver, es qué hacer con esto:
 
 ```
 eyJhbGciOiJQUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaXN0YSI6IkxhIHBpc3RhIGVzICdlc3TDoSBtb2phZGEnIn0.SyTbKht-GCNcrdFdoM_IdLwMX8_Ultn-4SJk1JIyBlNJTSbc2B29EV5Fqjjok6wpIfaQEOmZRgruJYl4894qALi1K1NNxQ4L1_tARSMgqatWgM-_FKHolGLLF__6Aopb7hJAGaXBAzXUOWogbRzoRqZzYT-x7GMiEW40iVR0v2o
